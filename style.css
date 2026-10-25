@@ -1,0 +1,33 @@
+body{
+  background-image: url("field.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1{
+  font-size:400%;
+  font-family:helvetica;
+  color: red;
+}
+textarea{
+  font-size:150%;
+    font-family: times new roman;
+}
+
+p{
+  color:white;
+  font-size: 110%
+}
+a{
+  color:red;
+  font-size:110%:
+}
+img{
+  hight: 300;
+  width: 300;
+  position: fixed;
+  bottom: 0;
+  
+}

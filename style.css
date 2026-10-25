@@ -1,5 +1,7 @@
 body{
   background-image: url("field.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
 }
 h1{
   font-size:225%;

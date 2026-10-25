@@ -1,12 +1,10 @@
-
+body{
+  background-image: url("field.jpeg");
+}
 h1{
   font-size:225%;
   font-family:helvetica;
 }
-body{
-  background-image: url("field.jpeg");
-}
-
 textarea{
   font-size:110%;
     font-family: times new roman;
